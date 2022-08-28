@@ -1,0 +1,31 @@
+/* font-family: 'Roboto', sans-serif;
+font-family: 'Varela Round', sans-serif;
+ */
+
+* {
+	color: black;
+}
+
+body {
+	font-family: 'Varela Round', sans-serif;
+}
+
+.box > p {
+	color: darkmagenta;
+}
+
+img {
+	height: 300px;
+}
+
+.text {
+	font-size: 20px;
+	text-align: left;
+	line-height: 2px;
+	color: darkblue !important;
+	text-indent: 20px;
+	text-transform: lowercase;
+	text-decoration: underline solid red;
+	word-spacing: 30px;
+	letter-spacing: 3px;
+}
